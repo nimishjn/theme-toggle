@@ -1,0 +1,30 @@
+.landing-container {
+    background-color: var(--bg-primary);
+}
+
+.container1 {
+    background-color: var(--bg-secondary);
+    height: 100px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-primary);
+    border: 2px solid var(--text-primary);
+}
+
+.heading1 {
+    color: var(--text-primary);
+}
+
+.heading2 {
+    color: var(--text-secondary);
+}
+
+.heading3 {
+    color: var(--primary-blue);
+}
+
+.heading4 {
+    color: var(--secondary-blue);
+}
